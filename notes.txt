@@ -1,2 +1,0 @@
-- This is a new file as part of practice 2.
-- The remaining notes are yet to be invented.
